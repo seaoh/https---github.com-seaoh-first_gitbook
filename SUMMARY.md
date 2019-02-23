@@ -12,6 +12,7 @@
     - [웹페이지 업데이트를 알려주는 Telegram 봇](posts/2017-04-20-HowToMakeWebCrawler-Notice-with-Telegram.md)
     - [N배빠른 크롤링, multiprocessing](posts/2017-07-05-HowToMakeWebCrawler-with-Multiprocess.md)
     - [Headless 크롬으로 크롤링하기](posts/2017-09-28-HowToMakeWebCrawler-Headless-Chrome.md)
+    - [Headless 크롬으로 크롤링하기222](posts/2017-09-28-HowToMakeWebCrawler-Headless-Chrome.md)
 
 - Tips
     - [Selenium Implicitly wait vs Explicitly wait](posts/2017-10-29-HowToMakeWebCrawler-ImplicitWait-vs-ExplicitWait.md)
