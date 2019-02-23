@@ -4,7 +4,7 @@
 
 # Summary
 
-- [나만의 웹 크롤러 만들기 시리즈 2](README.md)
+- [나만의 웹 크롤러 만들기 시리즈 23](README.md)
     - [requests와 BeautifulSoup으로 웹 크롤러 만들기](posts/2017-01-20-HowToMakeWebCrawler.md)
     - [Session을 이용해 로그인하기](posts/2017-01-20-HowToMakeWebCrawler-With-Login.md)
     - [Selenium으로 무적 크롤러 만들기](posts/2017-02-27-HowToMakeWebCrawler-With-Selenium.md)
