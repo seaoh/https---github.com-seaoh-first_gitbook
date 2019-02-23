@@ -15,5 +15,3 @@
 
 - Tips
     - [Selenium Implicitly wait vs Explicitly wait](posts/2017-10-29-HowToMakeWebCrawler-ImplicitWait-vs-ExplicitWait.md)
-
-    
